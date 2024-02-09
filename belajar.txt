@@ -1,3 +1,6 @@
 nama: ilahana
 jabatan: backend dev
 umur 25
+
+data baru
+belajar commit baru
