@@ -4,3 +4,7 @@ umur 25
 
 data baru
 belajar commit baru
+
+data a
+data b
+data c
