@@ -8,3 +8,5 @@ belajar commit baru
 data a
 data b
 data c
+
+data siswa
